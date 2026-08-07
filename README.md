@@ -14,14 +14,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,typescript,nodejs,postgres" />
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 📋 CustomerRegistration
