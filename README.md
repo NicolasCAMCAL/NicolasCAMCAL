@@ -1,15 +1,60 @@
-# About Me:
-Programador BackEnd<br>
+# 👋 Hi, I'm Nicolas!
 
+💻 **Backend Developer**  
+🎓 **Systems Development Student**  
+🚀 Always learning and improving my programming skills.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicksz_camargo) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=calargan@gmail.com)
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NicolasCAMCAL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NicolasCAMCAL&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCAMCAL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 🛠️ Technologies
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,nodejs,mysql,postgres,html,css,git,github" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,typescript,nodejs,postgres" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 📋 CustomerRegistration
+
+A **Java CRUD application** for managing customer information.
+
+**Features:**
+- ✅ Customer registration
+- 📋 Customer listing
+- ✏️ Customer updating
+- 🗑️ Customer deletion
+- 💾 Data persistence using `.txt` files
+- 🔒 CPF, CNPJ and phone number validation
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://instagram.com/nicksz_camargo">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calargan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NicolasCAMCAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=NicolasCAMCAL&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCAMCAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
